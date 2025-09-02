@@ -1,7 +1,7 @@
 @import 'variables';
 
 .main {
-  padding: 50px 40px;
+  padding: $main-padding;
   display: grid;
   gap: 46px 48px;
   justify-content: center;
